@@ -30,6 +30,6 @@ int main() {
     a %= b;  // a = a % b: Assigns the remainder of a divided by b to a
     printf("After a %= b, a = %d\n", a);
 
-    return 0;
+    return 0; //ends the execution of a function and returns control to the point where the function was called
 }
 
