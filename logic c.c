@@ -24,5 +24,5 @@ int main() {
     printf("!a : %d\n", !a);           // Logical NOT on a
     printf("!b : %d\n", !b);           // Logical NOT on b
 
-    return 0;
+    return 0;  //ends the execution of a function and returns control to the point where the function was called
 }
