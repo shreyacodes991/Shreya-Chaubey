@@ -5,7 +5,7 @@
 Write your code in this editor and press "Run" button to compile and execute it.
 
 *******************************************************************************/
-//operator for arithmatic operator
+//code for arithmatic operator
 #include <stdio.h>
 
 int main() {
