@@ -21,5 +21,5 @@ int main() {
     min = (a < b) ? a : b;
     printf("The minimum value is: %d\n", min);
 
-    return 0;
+    return 0; //ends the execution of a function and returns control to the point where the function was called
 }
