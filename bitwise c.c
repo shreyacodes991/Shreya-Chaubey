@@ -26,5 +26,5 @@ int main() {
     printf("a << 1 : %d\n", a << 1);  // Left shift a by 1 bit: Shifts the bits of a one position to the left, filling the rightmost bit with 0.
     printf("a >> 1 : %d\n", a >> 1);  // Right shift a by 1 bit: Shifts the bits of a one position to the right.
 
-    return 0;
+    return 0;  //ends the execution of a function and returns control to the point where the function was called
 }
