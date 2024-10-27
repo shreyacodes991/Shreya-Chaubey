@@ -5,10 +5,11 @@
 Write your code in this editor and press "Run" button to compile and execute it.
 
 *******************************************************************************/
+//operator for arithmatic operator
 #include <stdio.h>
 
 int main() {
-    int a = 10, b = 20, sum, sub, mult, divi, rem;  // defining and initializing values
+    int a = 10, b = 20, sum, sub, mult, divi, rem;  // declaration and defining variables a and b
     printf("The 1st value is: %d\n", a);  // printing value of a
     printf("The 2nd value is: %d\n", b);  // printing value of b
     
@@ -24,5 +25,5 @@ int main() {
     printf("\nDivision = %d", divi);      // prints the division
     printf("\nRemainder = %d", rem);      // prints the remainder
     
-    return 0;
+    return 0; //ends the execution of a function and returns control to the point where the function was called
 }
