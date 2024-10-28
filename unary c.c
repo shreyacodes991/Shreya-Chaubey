@@ -6,11 +6,12 @@ Welcome to GDB Online.
   Code, Compile, Run and Debug online from anywhere in world.
 
 *******************************************************************************/
+//code for unary operator
 #include <stdio.h>
 
 int main() {
-    int x = 10;
-    int y = -5;
+    int x = 10; //declaring and defining the variable a
+    int y = -5; //declaring and defining the variable b
     
     // Unary Plus
     int plus = +x; // no change, just shows unary plus
